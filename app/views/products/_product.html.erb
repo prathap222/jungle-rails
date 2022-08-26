@@ -11,6 +11,8 @@
   <div>
   <% if product.quantity == 0 %>
   <button class= "soldout">  Sold Out </button>
+  <button class="btn disabled">  
+  <%= fa_icon "shopping-cart", text: 'Add' %>
   
   <% else %>
 
@@ -19,6 +21,7 @@
     method: :post do %>
       <%= fa_icon "shopping-cart", text: 'Add' %> 
     <% end %>
+    <% end %>
   </div>
-  <% end %>
+  
 </article>
