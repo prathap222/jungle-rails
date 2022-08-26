@@ -6,7 +6,8 @@
 <table class="table table-bordered">
   <tr>
     <td> Total Products types: </td>
-    <td>  <%= @total_products %> </td>
+    <td> <%= link_to  @total_products, [:admin, :products] %>
+    </td>
   <tr>
   <tr>
     <td> Total Categories types: </td>
