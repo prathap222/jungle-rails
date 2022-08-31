@@ -20,31 +20,31 @@ Features added :
 
 ### Homepage 
 
-!["Homepage"]()
+!["Homepage"](https://github.com/prathap222/jungle-rails/blob/master/doc/homepage.png)
 
 
 ### Product List
 
 
-!["Product List"]()
+!["Product List"](https://github.com/prathap222/jungle-rails/blob/master/doc/product%20categories.png)
 
 
 ### Product View
 
 
-!["Product View"]()
+!["Product View"](https://github.com/prathap222/jungle-rails/blob/master/doc/individual%20product%20view.png)
 
 
 ### Order Confirmation
 
 
-!["Order Confirmation"]()
+!["Order Confirmation"](https://github.com/prathap222/jungle-rails/blob/master/doc/order%20confirmation%20page.png)
 
 
 ### Admin Dashboard
 
 
-!["Admin Dashboard"]()
+!["Admin Dashboard"](https://github.com/prathap222/jungle-rails/blob/master/doc/admin's%20product%20dashboard.png)
 
 
 ## Testing 
